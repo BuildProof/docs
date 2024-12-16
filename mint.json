@@ -27,17 +27,6 @@
       "url": "https://buildproof.io/GeistMonoVF.woff"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:info@buildproof.io"
-    }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
-
   "navigation": [
     {
       "group": "Get Started",
