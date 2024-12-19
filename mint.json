@@ -3,10 +3,9 @@
   "name": "BuildProof Documentation",
   "logo": {
     "dark": "/images/logo.svg",
-    "light": "/images/logo.svg",
-    "href": "https://buildproof.io"
+    "light": "/images/logo.svg"
   },
-  "favicon": "/images/favicon.svg",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#E33B3B",
     "light": "#FF8964",
@@ -33,7 +32,7 @@
       "group": "Get Started",
       "pages": [
         "get-started/introduction",
-        "get-started/participate"
+        "get-started/quickstart"
       ]
     },
     {
@@ -44,7 +43,6 @@
     }
   ],
   "footerSocials": {
-    "website": "https://buildproof.io",
     "x": "https://x.com/build_proof",
     "discord": "https://discord.gg/ACFvyu22DQ",
     "youtube": "https://www.youtube.com/@BuildProof",
